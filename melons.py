@@ -1,18 +1,18 @@
-melons = {
-    "Honeydew": {
+melon_deets = {
+    "HONEYDEW": {
         "price": 0.99, "seedlessness": True, "flesh color": None, 
         "rind color": None, "average weight": None
         },
-    "Crenshaw": {"price": 2.00, "seedlessness": False, "flesh color": None, 
+    "CRENSHAW": {"price": 2.00, "seedlessness": False, "flesh color": None, 
         "rind color": None, "average weight": None
         },
-    "Crane": {"price": 2.50, "seedlessness": False, "flesh color": None, 
+    "CRANE": {"price": 2.50, "seedlessness": False, "flesh color": None, 
         "rind color": None, "average weight": None
         },
-    "Casaba": {"price": 2.50, "seedlessness": False, "flesh color": None, 
+    "CASABA": {"price": 2.50, "seedlessness": False, "flesh color": None, 
         "rind color": None, "average weight": None
         },
-    "Cantaloupe": {"price": 0.99, "seedlessness": False, "flesh color": None, 
+    "CANTALOUPE": {"price": 0.99, "seedlessness": False, "flesh color": None, 
         "rind color": None, "average weight": None
         }
 }
